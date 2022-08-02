@@ -56,6 +56,7 @@ subtraction()
 
 
 
+
 function addition(){ 
     let number1 = 8
     let number2 = 2
@@ -66,3 +67,11 @@ function addition(){
     console.log(message)
  }
  addition()
+
+ function multiply() { let number1 = 4
+    let number2 = 5
+    let product = number1 * number2
+    let answer  =  "4 times 5 is " + product
+    console.log(answer)
+}
+multiply()
