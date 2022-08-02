@@ -68,7 +68,7 @@ function addition(){
  }
  addition()
 
- function multiply() { let number1 = 4
+ function multiplication() { let number1 = 4
     let number2 = 5
     let product = number1 * number2
     let answer  =  "4 times 5 is " + product
@@ -82,3 +82,33 @@ let product = a*b
 console.log(product)
 }
 why(22,22)
+
+
+function times( a,b){
+    let times = a*b
+   return times }
+
+    let m = times(8,3)
+console.log(m)
+
+
+
+
+function add( a,b){
+    let adding = a+b
+    return adding
+    }
+let c= add(7,m)
+console.log(c )
+
+
+
+ function minusing( a,b){
+        let minus = a-b
+        return minus
+        }
+      let d =  minusing(c,2)
+      console.log(d)
+
+        
+ 
