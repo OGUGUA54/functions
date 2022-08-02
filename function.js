@@ -74,7 +74,7 @@ function addition(){
     let answer  =  "4 times 5 is " + product
     console.log(answer)
 }
-multiplICATION()
+multiplication()
 
 
 function why( a,b){
