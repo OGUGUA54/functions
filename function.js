@@ -74,4 +74,11 @@ function addition(){
     let answer  =  "4 times 5 is " + product
     console.log(answer)
 }
-multiply()
+multiplICATION()
+
+
+function why( a,b){
+let product = a*b
+console.log(product)
+}
+why(22,22)
